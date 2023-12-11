@@ -40,7 +40,7 @@
 
 3. **Database**: [X]
    - **_Relational Datavase Management System (RDBMS)_**:  To store employee attendance data. Popular choices include:
-   - 
+    
 4. **Networking**: [X]
    - **_Local Network Configuration_**: To ensure that devices can communicate within the same local network.
 
