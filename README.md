@@ -1,5 +1,4 @@
-# QR Based Attendance Record System  | AGH Software Studio Project 2
-*  **By**: Edibe Tutku Gayda, Min Khant, Małgorzata Kuczera, Kaung Sithu
+# QR Based Attendance Record System  | Software Studio Project 2
 
 | No. | Table of Contents                                                                   |
 | --- | ----------------------------------------------------------------------- |
