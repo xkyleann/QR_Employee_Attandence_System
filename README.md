@@ -2,13 +2,13 @@
 
 | No. | Table of Contents                                                                   |
 | --- | ----------------------------------------------------------------------- |
-| 1   | [**Project Description**]()  
-| 2   | [**User Stories**](https://github.com/Etutku/QRBarcode-Based-Employee-Attendance-Record-System/blob/main/User_Stories.md) |
-| 3   | [**Instruction**]()   |
+| 1   | [**Project Description**](https://github.com/xkyleann/QR_Employee_Attandence_System/blob/main/README.md)  
+| 2   | [**User Stories**](https://github.com/xkyleann/QR_Employee_Attandence_System/blob/main/User_Stories.md) |
+| 3   | [**Instruction**](https://github.com/xkyleann/QR_Employee_Attandence_System/blob/main/README.md)   |
 | 4   | [**Project Base**]()   |
-| 5   | [**QR Implementation**](https://github.com/Etutku/QRBarcode-Based-Employee-Attendance-Record-System/tree/main/QR/Employee)   |
-| 6   | [**Acceptance Criteria**](https://github.com/Etutku/QRBarcode-Based-Employee-Attendance-Record-System/blob/main/Acceptance_Criteria.md)   |  
-| 7   | [**Graphics/Modes**](https://github.com/Etutku/QRBarcode-Based-Employee-Attendance-Record-System/tree/main/Graphics)   |
+| 5   | [**QR Implementation**]()   |
+| 6   | [**Acceptance Criteria**](https://github.com/xkyleann/QR_Employee_Attandence_System/blob/main/Acceptance_Criteria.md)   |  
+| 7   | [**Graphics/Modes**](https://github.com/xkyleann/QR_Employee_Attandence_System/tree/main/Graphics)   |
 | 8   | [**Firebase**](https://console.firebase.google.com/u/1/project/employee-attendance-syst-4e7a6/overview?pli=1) |
 
 ## Project Description 
